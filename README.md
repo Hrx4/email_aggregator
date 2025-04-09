@@ -1,3 +1,8 @@
+Architecture - 
+
+![Architecture](./emailaggregator2.png)
+
+
 When we start the server the emailwatcher will start listening to the inbox and will trigger the webhooks.
 
 The webhooks will be triggered when the email recived is classified as "Interested".
